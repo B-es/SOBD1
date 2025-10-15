@@ -1,2 +1,4 @@
 .ipynb_check*
 data/
+spark-warehouse
+*_parquet
